@@ -1,0 +1,15 @@
+BUFFER_SIZE = int(1e5)  # replay buffer size
+BATCH_SIZE = 64         # minibatch size
+GAMMA = 0.99            # discount factor
+TAU = 1e-3              # for soft update of target parameters
+LR = 5e-4    #1e-5      # learning rate 
+PRIMARY_UPDATE = 4      # how often to update the network
+TARGET_UPDATE = 100
+eps_start=1.0, eps_end=0.01, eps_decay=0.995
+
+#Update the target_network
+        self.target_step = (self.target_step + 1) % TARGET_UPDATE
+        if self.target_step == 0:
+             with torch.no_grad():
+                 self.target_network.load_state_dict(self.primary_network.state_dict())
+                 self.target_network.eval()

@@ -1,0 +1,811 @@
+Episode 1	Average Score: 0.00
+Episode 2	Average Score: 0.00
+Episode 3	Average Score: 0.00
+target updated
+Episode 4	Average Score: 0.00
+Episode 5	Average Score: 0.40
+Episode 6	Average Score: 0.17
+target updated
+Episode 7	Average Score: 0.29
+Episode 8	Average Score: 0.00
+Episode 9	Average Score: 0.00
+target updated
+Episode 10	Average Score: 0.00
+Episode 11	Average Score: 0.18
+Episode 12	Average Score: 0.25
+Episode 13	Average Score: 0.23
+target updated
+Episode 14	Average Score: 0.21
+Episode 15	Average Score: 0.27
+Episode 16	Average Score: 0.31
+target updated
+Episode 17	Average Score: 0.41
+Episode 18	Average Score: 0.44
+Episode 19	Average Score: 0.47
+target updated
+Episode 20	Average Score: 0.45
+Episode 21	Average Score: 0.52
+Episode 22	Average Score: 0.50
+Episode 23	Average Score: 0.48
+target updated
+Episode 24	Average Score: 0.54
+Episode 25	Average Score: 0.52
+Episode 26	Average Score: 0.54
+target updated
+Episode 27	Average Score: 0.56
+Episode 28	Average Score: 0.54
+Episode 29	Average Score: 0.52
+target updated
+Episode 30	Average Score: 0.53
+Episode 31	Average Score: 0.55
+Episode 32	Average Score: 0.59
+Episode 33	Average Score: 0.58
+target updated
+Episode 34	Average Score: 0.59
+Episode 35	Average Score: 0.51
+Episode 36	Average Score: 0.56
+target updated
+Episode 37	Average Score: 0.59
+Episode 38	Average Score: 0.66
+Episode 39	Average Score: 0.69
+target updated
+Episode 40	Average Score: 0.70
+Episode 41	Average Score: 0.68
+Episode 42	Average Score: 0.69
+Episode 43	Average Score: 0.70
+target updated
+Episode 44	Average Score: 0.70
+Episode 45	Average Score: 0.69
+Episode 46	Average Score: 0.67
+target updated
+Episode 47	Average Score: 0.60
+Episode 48	Average Score: 0.58
+Episode 49	Average Score: 0.57
+target updated
+Episode 50	Average Score: 0.60
+Episode 51	Average Score: 0.59
+Episode 52	Average Score: 0.62
+Episode 53	Average Score: 0.64
+target updated
+Episode 54	Average Score: 0.65
+Episode 55	Average Score: 0.67
+Episode 56	Average Score: 0.71
+target updated
+Episode 57	Average Score: 0.72
+Episode 58	Average Score: 0.72
+Episode 59	Average Score: 0.73
+target updated
+Episode 60	Average Score: 0.70
+Episode 61	Average Score: 0.69
+Episode 62	Average Score: 0.71
+Episode 63	Average Score: 0.67
+target updated
+Episode 64	Average Score: 0.73
+Episode 65	Average Score: 0.74
+Episode 66	Average Score: 0.77
+target updated
+Episode 67	Average Score: 0.75
+Episode 68	Average Score: 0.75
+Episode 69	Average Score: 0.78
+target updated
+Episode 70	Average Score: 0.80
+Episode 71	Average Score: 0.80
+Episode 72	Average Score: 0.79
+Episode 73	Average Score: 0.77
+target updated
+Episode 74	Average Score: 0.82
+Episode 75	Average Score: 0.83
+Episode 76	Average Score: 0.87
+target updated
+Episode 77	Average Score: 0.90
+Episode 78	Average Score: 0.95
+Episode 79	Average Score: 0.95
+target updated
+Episode 80	Average Score: 0.96
+Episode 81	Average Score: 0.96
+Episode 82	Average Score: 0.98
+Episode 83	Average Score: 1.01
+target updated
+Episode 84	Average Score: 1.00
+Episode 85	Average Score: 1.00
+Episode 86	Average Score: 1.02
+target updated
+Episode 87	Average Score: 1.02
+Episode 88	Average Score: 1.10
+Episode 89	Average Score: 1.13
+target updated
+Episode 90	Average Score: 1.14
+Episode 91	Average Score: 1.18
+Episode 92	Average Score: 1.18
+Episode 93	Average Score: 1.23
+target updated
+Episode 94	Average Score: 1.27
+Episode 95	Average Score: 1.28
+Episode 96	Average Score: 1.30
+target updated
+Episode 97	Average Score: 1.32
+Episode 98	Average Score: 1.31
+Episode 99	Average Score: 1.31
+target updated
+Episode 100	Average Score: 1.36
+Episode 100	Average Score: 1.36
+Episode 101	Average Score: 1.37
+Episode 102	Average Score: 1.39
+Episode 103	Average Score: 1.44
+target updated
+Episode 104	Average Score: 1.48
+Episode 105	Average Score: 1.47
+Episode 106	Average Score: 1.45
+target updated
+Episode 107	Average Score: 1.48
+Episode 108	Average Score: 1.51
+Episode 109	Average Score: 1.61
+target updated
+Episode 110	Average Score: 1.64
+Episode 111	Average Score: 1.64
+Episode 112	Average Score: 1.65
+Episode 113	Average Score: 1.69
+target updated
+Episode 114	Average Score: 1.71
+Episode 115	Average Score: 1.76
+Episode 116	Average Score: 1.82
+target updated
+Episode 117	Average Score: 1.85
+Episode 118	Average Score: 1.87
+Episode 119	Average Score: 1.89
+target updated
+Episode 120	Average Score: 1.96
+Episode 121	Average Score: 2.00
+Episode 122	Average Score: 2.05
+Episode 123	Average Score: 2.06
+target updated
+Episode 124	Average Score: 2.05
+Episode 125	Average Score: 2.04
+Episode 126	Average Score: 2.13
+target updated
+Episode 127	Average Score: 2.19
+Episode 128	Average Score: 2.18
+Episode 129	Average Score: 2.19
+target updated
+Episode 130	Average Score: 2.26
+Episode 131	Average Score: 2.25
+Episode 132	Average Score: 2.31
+Episode 133	Average Score: 2.39
+target updated
+Episode 134	Average Score: 2.45
+Episode 135	Average Score: 2.53
+Episode 136	Average Score: 2.59
+target updated
+Episode 137	Average Score: 2.60
+Episode 138	Average Score: 2.63
+Episode 139	Average Score: 2.62
+target updated
+Episode 140	Average Score: 2.61
+Episode 141	Average Score: 2.61
+Episode 142	Average Score: 2.65
+Episode 143	Average Score: 2.68
+target updated
+Episode 144	Average Score: 2.71
+Episode 145	Average Score: 2.76
+Episode 146	Average Score: 2.78
+target updated
+Episode 147	Average Score: 2.84
+Episode 148	Average Score: 2.88
+Episode 149	Average Score: 2.90
+target updated
+Episode 150	Average Score: 2.91
+Episode 151	Average Score: 2.96
+Episode 152	Average Score: 3.01
+Episode 153	Average Score: 2.99
+target updated
+Episode 154	Average Score: 3.05
+Episode 155	Average Score: 3.06
+Episode 156	Average Score: 3.07
+target updated
+Episode 157	Average Score: 3.07
+Episode 158	Average Score: 3.11
+Episode 159	Average Score: 3.12
+target updated
+Episode 160	Average Score: 3.18
+Episode 161	Average Score: 3.25
+Episode 162	Average Score: 3.23
+Episode 163	Average Score: 3.30
+target updated
+Episode 164	Average Score: 3.33
+Episode 165	Average Score: 3.39
+Episode 166	Average Score: 3.37
+target updated
+Episode 167	Average Score: 3.40
+Episode 168	Average Score: 3.45
+Episode 169	Average Score: 3.45
+target updated
+Episode 170	Average Score: 3.47
+Episode 171	Average Score: 3.52
+Episode 172	Average Score: 3.61
+Episode 173	Average Score: 3.68
+target updated
+Episode 174	Average Score: 3.72
+Episode 175	Average Score: 3.76
+Episode 176	Average Score: 3.81
+target updated
+Episode 177	Average Score: 3.81
+Episode 178	Average Score: 3.79
+Episode 179	Average Score: 3.82
+target updated
+Episode 180	Average Score: 3.94
+Episode 181	Average Score: 3.97
+Episode 182	Average Score: 4.01
+Episode 183	Average Score: 4.02
+target updated
+Episode 184	Average Score: 4.10
+Episode 185	Average Score: 4.15
+Episode 186	Average Score: 4.13
+target updated
+Episode 187	Average Score: 4.15
+Episode 188	Average Score: 4.16
+Episode 189	Average Score: 4.18
+target updated
+Episode 190	Average Score: 4.26
+Episode 191	Average Score: 4.33
+Episode 192	Average Score: 4.39
+Episode 193	Average Score: 4.39
+target updated
+Episode 194	Average Score: 4.43
+Episode 195	Average Score: 4.44
+Episode 196	Average Score: 4.49
+target updated
+Episode 197	Average Score: 4.50
+Episode 198	Average Score: 4.59
+Episode 199	Average Score: 4.59
+target updated
+Episode 200	Average Score: 4.55
+Episode 200	Average Score: 4.55
+Episode 201	Average Score: 4.62
+Episode 202	Average Score: 4.62
+Episode 203	Average Score: 4.65
+target updated
+Episode 204	Average Score: 4.69
+Episode 205	Average Score: 4.73
+Episode 206	Average Score: 4.83
+target updated
+Episode 207	Average Score: 4.82
+Episode 208	Average Score: 4.84
+Episode 209	Average Score: 4.88
+target updated
+Episode 210	Average Score: 4.90
+Episode 211	Average Score: 4.93
+Episode 212	Average Score: 5.02
+Episode 213	Average Score: 5.10
+target updated
+Episode 214	Average Score: 5.17
+Episode 215	Average Score: 5.25
+Episode 216	Average Score: 5.34
+target updated
+Episode 217	Average Score: 5.40
+Episode 218	Average Score: 5.39
+Episode 219	Average Score: 5.42
+target updated
+Episode 220	Average Score: 5.37
+Episode 221	Average Score: 5.38
+Episode 222	Average Score: 5.45
+Episode 223	Average Score: 5.56
+target updated
+Episode 224	Average Score: 5.62
+Episode 225	Average Score: 5.69
+Episode 226	Average Score: 5.61
+target updated
+Episode 227	Average Score: 5.57
+Episode 228	Average Score: 5.65
+Episode 229	Average Score: 5.72
+target updated
+Episode 230	Average Score: 5.70
+Episode 231	Average Score: 5.80
+Episode 232	Average Score: 5.85
+Episode 233	Average Score: 5.88
+target updated
+Episode 234	Average Score: 5.80
+Episode 235	Average Score: 5.88
+Episode 236	Average Score: 5.91
+target updated
+Episode 237	Average Score: 5.97
+Episode 238	Average Score: 5.99
+Episode 239	Average Score: 6.07
+target updated
+Episode 240	Average Score: 6.15
+Episode 241	Average Score: 6.21
+Episode 242	Average Score: 6.20
+Episode 243	Average Score: 6.17
+target updated
+Episode 244	Average Score: 6.22
+Episode 245	Average Score: 6.28
+Episode 246	Average Score: 6.30
+target updated
+Episode 247	Average Score: 6.31
+Episode 248	Average Score: 6.37
+Episode 249	Average Score: 6.45
+target updated
+Episode 250	Average Score: 6.52
+Episode 251	Average Score: 6.55
+Episode 252	Average Score: 6.57
+Episode 253	Average Score: 6.64
+target updated
+Episode 254	Average Score: 6.64
+Episode 255	Average Score: 6.68
+Episode 256	Average Score: 6.71
+target updated
+Episode 257	Average Score: 6.77
+Episode 258	Average Score: 6.80
+Episode 259	Average Score: 6.94
+target updated
+Episode 260	Average Score: 6.99
+Episode 261	Average Score: 7.01
+Episode 262	Average Score: 7.06
+Episode 263	Average Score: 7.11
+target updated
+Episode 264	Average Score: 7.06
+Episode 265	Average Score: 7.04
+Episode 266	Average Score: 7.15
+target updated
+Episode 267	Average Score: 7.21
+Episode 268	Average Score: 7.29
+Episode 269	Average Score: 7.33
+target updated
+Episode 270	Average Score: 7.36
+Episode 271	Average Score: 7.41
+Episode 272	Average Score: 7.41
+Episode 273	Average Score: 7.47
+target updated
+Episode 274	Average Score: 7.47
+Episode 275	Average Score: 7.44
+Episode 276	Average Score: 7.46
+target updated
+Episode 277	Average Score: 7.51
+Episode 278	Average Score: 7.55
+Episode 279	Average Score: 7.63
+target updated
+Episode 280	Average Score: 7.58
+Episode 281	Average Score: 7.65
+Episode 282	Average Score: 7.71
+Episode 283	Average Score: 7.70
+target updated
+Episode 284	Average Score: 7.69
+Episode 285	Average Score: 7.70
+Episode 286	Average Score: 7.80
+target updated
+Episode 287	Average Score: 7.84
+Episode 288	Average Score: 7.87
+Episode 289	Average Score: 7.88
+target updated
+Episode 290	Average Score: 7.90
+Episode 291	Average Score: 7.84
+Episode 292	Average Score: 7.86
+Episode 293	Average Score: 7.88
+target updated
+Episode 294	Average Score: 7.80
+Episode 295	Average Score: 7.86
+Episode 296	Average Score: 7.88
+target updated
+Episode 297	Average Score: 7.94
+Episode 298	Average Score: 7.97
+Episode 299	Average Score: 8.01
+target updated
+Episode 300	Average Score: 8.09
+Episode 300	Average Score: 8.09
+Episode 301	Average Score: 8.09
+Episode 302	Average Score: 8.21
+Episode 303	Average Score: 8.29
+target updated
+Episode 304	Average Score: 8.32
+Episode 305	Average Score: 8.37
+Episode 306	Average Score: 8.41
+target updated
+Episode 307	Average Score: 8.50
+Episode 308	Average Score: 8.62
+Episode 309	Average Score: 8.54
+target updated
+Episode 310	Average Score: 8.59
+Episode 311	Average Score: 8.62
+Episode 312	Average Score: 8.54
+Episode 313	Average Score: 8.51
+target updated
+Episode 314	Average Score: 8.47
+Episode 315	Average Score: 8.45
+Episode 316	Average Score: 8.37
+target updated
+Episode 317	Average Score: 8.40
+Episode 318	Average Score: 8.44
+Episode 319	Average Score: 8.40
+target updated
+Episode 320	Average Score: 8.51
+Episode 321	Average Score: 8.56
+Episode 322	Average Score: 8.52
+Episode 323	Average Score: 8.49
+target updated
+Episode 324	Average Score: 8.49
+Episode 325	Average Score: 8.46
+Episode 326	Average Score: 8.50
+target updated
+Episode 327	Average Score: 8.53
+Episode 328	Average Score: 8.56
+Episode 329	Average Score: 8.57
+target updated
+Episode 330	Average Score: 8.67
+Episode 331	Average Score: 8.63
+Episode 332	Average Score: 8.53
+Episode 333	Average Score: 8.58
+target updated
+Episode 334	Average Score: 8.74
+Episode 335	Average Score: 8.67
+Episode 336	Average Score: 8.61
+target updated
+Episode 337	Average Score: 8.62
+Episode 338	Average Score: 8.65
+Episode 339	Average Score: 8.59
+target updated
+Episode 340	Average Score: 8.60
+Episode 341	Average Score: 8.62
+Episode 342	Average Score: 8.63
+Episode 343	Average Score: 8.76
+target updated
+Episode 344	Average Score: 8.74
+Episode 345	Average Score: 8.72
+Episode 346	Average Score: 8.82
+target updated
+Episode 347	Average Score: 8.85
+Episode 348	Average Score: 8.87
+Episode 349	Average Score: 8.87
+target updated
+Episode 350	Average Score: 8.85
+Episode 351	Average Score: 8.91
+Episode 352	Average Score: 8.95
+Episode 353	Average Score: 8.97
+target updated
+Episode 354	Average Score: 9.01
+Episode 355	Average Score: 9.07
+Episode 356	Average Score: 9.10
+target updated
+Episode 357	Average Score: 9.20
+Episode 358	Average Score: 9.24
+Episode 359	Average Score: 9.19
+target updated
+Episode 360	Average Score: 9.16
+Episode 361	Average Score: 9.15
+Episode 362	Average Score: 9.17
+Episode 363	Average Score: 9.17
+target updated
+Episode 364	Average Score: 9.29
+Episode 365	Average Score: 9.33
+Episode 366	Average Score: 9.28
+target updated
+Episode 367	Average Score: 9.30
+Episode 368	Average Score: 9.22
+Episode 369	Average Score: 9.24
+target updated
+Episode 370	Average Score: 9.21
+Episode 371	Average Score: 9.17
+Episode 372	Average Score: 9.21
+Episode 373	Average Score: 9.19
+target updated
+Episode 374	Average Score: 9.22
+Episode 375	Average Score: 9.29
+Episode 376	Average Score: 9.27
+target updated
+Episode 377	Average Score: 9.26
+Episode 378	Average Score: 9.28
+Episode 379	Average Score: 9.27
+target updated
+Episode 380	Average Score: 9.30
+Episode 381	Average Score: 9.35
+Episode 382	Average Score: 9.41
+Episode 383	Average Score: 9.47
+target updated
+Episode 384	Average Score: 9.49
+Episode 385	Average Score: 9.52
+Episode 386	Average Score: 9.51
+target updated
+Episode 387	Average Score: 9.52
+Episode 388	Average Score: 9.55
+Episode 389	Average Score: 9.56
+target updated
+Episode 390	Average Score: 9.57
+Episode 391	Average Score: 9.67
+Episode 392	Average Score: 9.65
+Episode 393	Average Score: 9.70
+target updated
+Episode 394	Average Score: 9.82
+Episode 395	Average Score: 9.78
+Episode 396	Average Score: 9.74
+target updated
+Episode 397	Average Score: 9.76
+Episode 398	Average Score: 9.70
+Episode 399	Average Score: 9.74
+target updated
+Episode 400	Average Score: 9.74
+Episode 400	Average Score: 9.74
+Episode 401	Average Score: 9.86
+Episode 402	Average Score: 9.78
+Episode 403	Average Score: 9.70
+target updated
+Episode 404	Average Score: 9.71
+Episode 405	Average Score: 9.67
+Episode 406	Average Score: 9.63
+target updated
+Episode 407	Average Score: 9.66
+Episode 408	Average Score: 9.70
+Episode 409	Average Score: 9.73
+target updated
+Episode 410	Average Score: 9.72
+Episode 411	Average Score: 9.74
+Episode 412	Average Score: 9.80
+Episode 413	Average Score: 9.83
+target updated
+Episode 414	Average Score: 9.91
+Episode 415	Average Score: 9.91
+Episode 416	Average Score: 9.88
+target updated
+Episode 417	Average Score: 9.83
+Episode 418	Average Score: 9.82
+Episode 419	Average Score: 9.94
+target updated
+Episode 420	Average Score: 9.96
+Episode 421	Average Score: 9.94
+Episode 422	Average Score: 9.90
+Episode 423	Average Score: 9.94
+target updated
+Episode 424	Average Score: 9.99
+Episode 425	Average Score: 10.11
+Episode 426	Average Score: 10.15
+target updated
+Episode 427	Average Score: 10.20
+Episode 428	Average Score: 10.24
+Episode 429	Average Score: 10.27
+target updated
+Episode 430	Average Score: 10.24
+Episode 431	Average Score: 10.26
+Episode 432	Average Score: 10.39
+Episode 433	Average Score: 10.38
+target updated
+Episode 434	Average Score: 10.38
+Episode 435	Average Score: 10.47
+Episode 436	Average Score: 10.54
+target updated
+Episode 437	Average Score: 10.55
+Episode 438	Average Score: 10.57
+Episode 439	Average Score: 10.69
+target updated
+Episode 440	Average Score: 10.74
+Episode 441	Average Score: 10.83
+Episode 442	Average Score: 10.91
+Episode 443	Average Score: 10.88
+target updated
+Episode 444	Average Score: 10.97
+Episode 445	Average Score: 11.00
+Episode 446	Average Score: 10.98
+target updated
+Episode 447	Average Score: 11.01
+Episode 448	Average Score: 10.96
+Episode 449	Average Score: 10.93
+target updated
+Episode 450	Average Score: 10.96
+Episode 451	Average Score: 10.91
+Episode 452	Average Score: 10.90
+Episode 453	Average Score: 10.93
+target updated
+Episode 454	Average Score: 10.95
+Episode 455	Average Score: 10.99
+Episode 456	Average Score: 11.08
+target updated
+Episode 457	Average Score: 11.02
+Episode 458	Average Score: 10.99
+Episode 459	Average Score: 11.02
+target updated
+Episode 460	Average Score: 11.11
+Episode 461	Average Score: 11.15
+Episode 462	Average Score: 11.23
+Episode 463	Average Score: 11.27
+target updated
+Episode 464	Average Score: 11.32
+Episode 465	Average Score: 11.39
+Episode 466	Average Score: 11.46
+target updated
+Episode 467	Average Score: 11.50
+Episode 468	Average Score: 11.61
+Episode 469	Average Score: 11.61
+target updated
+Episode 470	Average Score: 11.70
+Episode 471	Average Score: 11.80
+Episode 472	Average Score: 11.79
+Episode 473	Average Score: 11.83
+target updated
+Episode 474	Average Score: 11.81
+Episode 475	Average Score: 11.90
+Episode 476	Average Score: 11.96
+target updated
+Episode 477	Average Score: 12.00
+Episode 478	Average Score: 11.98
+Episode 479	Average Score: 11.94
+target updated
+Episode 480	Average Score: 12.00
+Episode 481	Average Score: 11.99
+Episode 482	Average Score: 11.97
+Episode 483	Average Score: 11.91
+target updated
+Episode 484	Average Score: 11.97
+Episode 485	Average Score: 11.94
+Episode 486	Average Score: 11.98
+target updated
+Episode 487	Average Score: 12.00
+Episode 488	Average Score: 12.01
+Episode 489	Average Score: 11.99
+target updated
+Episode 490	Average Score: 11.99
+Episode 491	Average Score: 11.91
+Episode 492	Average Score: 12.02
+Episode 493	Average Score: 12.01
+target updated
+Episode 494	Average Score: 11.99
+Episode 495	Average Score: 12.03
+Episode 496	Average Score: 12.09
+target updated
+Episode 497	Average Score: 12.14
+Episode 498	Average Score: 12.24
+Episode 499	Average Score: 12.27
+target updated
+Episode 500	Average Score: 12.29
+Episode 500	Average Score: 12.29
+Episode 501	Average Score: 12.24
+Episode 502	Average Score: 12.29
+Episode 503	Average Score: 12.35
+target updated
+Episode 504	Average Score: 12.33
+Episode 505	Average Score: 12.37
+Episode 506	Average Score: 12.45
+target updated
+Episode 507	Average Score: 12.40
+Episode 508	Average Score: 12.29
+Episode 509	Average Score: 12.34
+target updated
+Episode 510	Average Score: 12.40
+Episode 511	Average Score: 12.43
+Episode 512	Average Score: 12.47
+Episode 513	Average Score: 12.39
+target updated
+Episode 514	Average Score: 12.33
+Episode 515	Average Score: 12.26
+Episode 516	Average Score: 12.35
+target updated
+Episode 517	Average Score: 12.35
+Episode 518	Average Score: 12.38
+Episode 519	Average Score: 12.37
+target updated
+Episode 520	Average Score: 12.33
+Episode 521	Average Score: 12.34
+Episode 522	Average Score: 12.39
+Episode 523	Average Score: 12.35
+target updated
+Episode 524	Average Score: 12.38
+Episode 525	Average Score: 12.38
+Episode 526	Average Score: 12.43
+target updated
+Episode 527	Average Score: 12.42
+Episode 528	Average Score: 12.45
+Episode 529	Average Score: 12.44
+target updated
+Episode 530	Average Score: 12.39
+Episode 531	Average Score: 12.40
+Episode 532	Average Score: 12.44
+Episode 533	Average Score: 12.40
+target updated
+Episode 534	Average Score: 12.41
+Episode 535	Average Score: 12.32
+Episode 536	Average Score: 12.35
+target updated
+Episode 537	Average Score: 12.39
+Episode 538	Average Score: 12.37
+Episode 539	Average Score: 12.33
+target updated
+Episode 540	Average Score: 12.32
+Episode 541	Average Score: 12.29
+Episode 542	Average Score: 12.31
+Episode 543	Average Score: 12.32
+target updated
+Episode 544	Average Score: 12.23
+Episode 545	Average Score: 12.24
+Episode 546	Average Score: 12.32
+target updated
+Episode 547	Average Score: 12.40
+Episode 548	Average Score: 12.43
+Episode 549	Average Score: 12.53
+target updated
+Episode 550	Average Score: 12.52
+Episode 551	Average Score: 12.56
+Episode 552	Average Score: 12.56
+Episode 553	Average Score: 12.51
+target updated
+Episode 554	Average Score: 12.52
+Episode 555	Average Score: 12.53
+Episode 556	Average Score: 12.44
+target updated
+Episode 557	Average Score: 12.39
+Episode 558	Average Score: 12.43
+Episode 559	Average Score: 12.42
+target updated
+Episode 560	Average Score: 12.35
+Episode 561	Average Score: 12.35
+Episode 562	Average Score: 12.39
+Episode 563	Average Score: 12.41
+target updated
+Episode 564	Average Score: 12.38
+Episode 565	Average Score: 12.28
+Episode 566	Average Score: 12.22
+target updated
+Episode 567	Average Score: 12.22
+Episode 568	Average Score: 12.19
+Episode 569	Average Score: 12.26
+target updated
+Episode 570	Average Score: 12.22
+Episode 571	Average Score: 12.21
+Episode 572	Average Score: 12.22
+Episode 573	Average Score: 12.21
+target updated
+Episode 574	Average Score: 12.23
+Episode 575	Average Score: 12.15
+Episode 576	Average Score: 12.11
+target updated
+Episode 577	Average Score: 12.15
+Episode 578	Average Score: 12.22
+Episode 579	Average Score: 12.33
+target updated
+Episode 580	Average Score: 12.32
+Episode 581	Average Score: 12.32
+Episode 582	Average Score: 12.33
+Episode 583	Average Score: 12.43
+target updated
+Episode 584	Average Score: 12.44
+Episode 585	Average Score: 12.46
+Episode 586	Average Score: 12.46
+target updated
+Episode 587	Average Score: 12.54
+Episode 588	Average Score: 12.55
+Episode 589	Average Score: 12.60
+target updated
+Episode 590	Average Score: 12.57
+Episode 591	Average Score: 12.65
+Episode 592	Average Score: 12.59
+Episode 593	Average Score: 12.61
+target updated
+Episode 594	Average Score: 12.65
+Episode 595	Average Score: 12.69
+Episode 596	Average Score: 12.72
+target updated
+Episode 597	Average Score: 12.70
+Episode 598	Average Score: 12.67
+Episode 599	Average Score: 12.69
+target updated
+Episode 600	Average Score: 12.69
+Episode 600	Average Score: 12.69
+Episode 601	Average Score: 12.67
+Episode 602	Average Score: 12.72
+Episode 603	Average Score: 12.71
+target updated
+Episode 604	Average Score: 12.73
+Episode 605	Average Score: 12.75
+Episode 606	Average Score: 12.73
+target updated
+Episode 607	Average Score: 12.79
+Episode 608	Average Score: 12.81
+Episode 609	Average Score: 12.83
+target updated
+Episode 610	Average Score: 12.79
+Episode 611	Average Score: 12.79
+Episode 612	Average Score: 12.84
+Episode 613	Average Score: 12.86
+target updated
+Episode 614	Average Score: 12.91
+Episode 615	Average Score: 12.96
+Episode 616	Average Score: 12.95
+target updated
+Episode 617	Average Score: 12.99
+Episode 618	Average Score: 13.08
+
+Environment solved in 518 episodes!	Average Score: 13.08

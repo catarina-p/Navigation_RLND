@@ -12,9 +12,10 @@ import torch.optim as optim
 BUFFER_SIZE = int(1e5)  # replay buffer size
 BATCH_SIZE = 64         # minibatch size
 GAMMA = 0.99            # discount factor
-LR = 11e-5    #1e-5      # learning rate 
+TAU = 1e-3              # for soft update of target parameters
+LR = 5e-4    #1e-5      # learning rate 
 PRIMARY_UPDATE = 4      # how often to update the network
-TARGET_UPDATE = 1000
+TARGET_UPDATE = 100
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
@@ -68,10 +69,6 @@ class Agent():
             with torch.no_grad():
                 self.target_network.load_state_dict(self.primary_network.state_dict())
                 self.target_network.eval()
-                # print("target updated")
-            
-            # ------------------- update target network ------------------- #
-            # self.soft_update(self.primary_network, self.target_network, TAU)          
 
     def act(self, state, eps=0.):
         """Returns actions for given state as per current policy.
@@ -129,20 +126,7 @@ class Agent():
         # Minimize the loss
         self.optimizer.zero_grad()
         loss.backward()
-        self.optimizer.step()        
-
-    # def soft_update(self, local_model, target_model, tau):
-    #     """Soft update model parameters.
-    #     θ_target = τ*θ_local + (1 - τ)*θ_target
-
-    #     Params
-    #     ======
-    #         local_model (PyTorch model): weights will be copied from
-    #         target_model (PyTorch model): weights will be copied to
-    #         tau (float): interpolation parameter 
-    #     """
-    #     for target_param, local_param in zip(target_model.parameters(), local_model.parameters()):
-    #         target_param.data.copy_(tau*local_param.data + (1.0-tau)*target_param.data)           
+        self.optimizer.step()                   
 
 
 class ReplayBuffer:
@@ -171,6 +155,7 @@ class ReplayBuffer:
     
     def sample(self):
         """Randomly sample a batch of experiences from memory."""
+        """Prioritised Replay"""
         experiences = random.sample(self.memory, k=self.batch_size)
 
         states = torch.from_numpy(np.vstack([e.state for e in experiences if e is not None])).float().to(device)
