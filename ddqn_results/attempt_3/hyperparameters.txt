@@ -1,7 +1,0 @@
-BUFFER_SIZE = int(1e5)  # replay buffer size
-BATCH_SIZE = 64         # minibatch size
-GAMMA = 0.99            # discount factor
-LR = 25e-5    #1e-5      # learning rate 
-PRIMARY_UPDATE = 4      # how often to update the network
-TARGET_UPDATE = 200
-eps_start=1.0, eps_end=0.01, eps_decay=0.995
