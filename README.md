@@ -3,7 +3,7 @@
 This repository contains my submission for the Navigation Project within the Udacity Deep Reinforcement Learning Nanodegree:
 <https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation>
 
-In order to solve this environment thre value based methods were impleemnted:
+To solve this environment three value based methods were impleemnted:
 
 * Deep Q Networks (original paper <https://www.nature.com/articles/nature14236>)
 * Double Deep Q Netowrks (original paper <https://arxiv.org/abs/1509.06461>)
