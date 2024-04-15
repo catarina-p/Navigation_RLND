@@ -3,7 +3,7 @@ import numpy as np
 import random
 from collections import namedtuple, deque
 
-from dqn_model import QNetwork
+from QNetwork_model import QNetwork
 
 import torch
 import torch.nn.functional as F
@@ -102,15 +102,6 @@ class Agent():
 
         # Prediction
         Q_expected = self.primary_network(states).gather(1, actions)
-
-        # # Ground truth
-        # next_Q_t_primary_values = self.primary_network(next_states)
-        # next_Q_t_target_values = (1 - dones) * self.target_network(next_states)
-        
-        # next_Q_t_values_max = next_Q_t_target_values.gather(1, torch.argmax(next_Q_t_primary_values, dim=1).unsqueeze(1)).detach()
-        
-        # # Doouble Q-Learning
-        # Q_targets = rewards + (gamma * next_Q_t_values_max)
 
         # Compute target Q-values using Double DQN
         with torch.no_grad():

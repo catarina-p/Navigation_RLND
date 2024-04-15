@@ -4,7 +4,7 @@ import numpy as np
 import random
 from collections import namedtuple, deque
 
-from dqn_model import QNetwork
+from QNetwork_model import QNetwork
 
 import torch
 import torch.nn.functional as F
