@@ -1,15 +1,15 @@
-# Navigation_RLND
+# Navigation_RLND (Work In Progress)
 
 This repository contains my submission for the Navigation Project within the Udacity Deep Reinforcement Learning Nanodegree:
 <https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation>
 
-In order to solve this environment thre value based methods were impleemnted:
+To solve this environment three value based methods were impleemnted:
 
 * Deep Q Networks (original paper <https://www.nature.com/articles/nature14236>)
 * Double Deep Q Netowrks (original paper <https://arxiv.org/abs/1509.06461>)
-* Prioritized Experience Replay (original paper <https://arxiv.org/abs/1511.05952>) (INCOMPLETE)
-* Dueling Networks (original paper <https://arxiv.org/abs/1511.06581>)
-* Rainbow (original paper <https://arxiv.org/abs/1710.02298>)
+* Prioritized Experience Replay (INCOMPLETE) (original paper <https://arxiv.org/abs/1511.05952>) 
+* Dueling Networks (INCOMPLETE) (original paper <https://arxiv.org/abs/1511.06581>)
+* Rainbow (INCOMPLETE) (original paper <https://arxiv.org/abs/1710.02298>)
 
 ## Environment
 
