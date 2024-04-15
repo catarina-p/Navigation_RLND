@@ -1,4 +1,4 @@
-# Navigation_RLND
+# Navigation_RLND (Work In Progress)
 
 This repository contains my submission for the Navigation Project within the Udacity Deep Reinforcement Learning Nanodegree:
 <https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation>
