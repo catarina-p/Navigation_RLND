@@ -106,15 +106,6 @@ class Agent():
         # Prediction
         Q_expected = self.primary_network(states).gather(1, actions)
 
-        # # Ground truth
-        # next_Q_t_primary_values = self.primary_network(next_states)
-        # next_Q_t_target_values = (1 - dones) * self.target_network(next_states)
-        
-        # next_Q_t_values_max = next_Q_t_target_values.gather(1, torch.argmax(next_Q_t_primary_values, dim=1).unsqueeze(1)).detach()
-        
-        # # Doouble Q-Learning
-        # Q_targets = rewards + (gamma * next_Q_t_values_max)
-
         # Compute target Q-values using Double DQN
         with torch.no_grad():
             # Compute action with max Q-value using primary network
@@ -129,20 +120,7 @@ class Agent():
         # Minimize the loss
         self.optimizer.zero_grad()
         loss.backward()
-        self.optimizer.step()        
-
-    # def soft_update(self, local_model, target_model, tau):
-    #     """Soft update model parameters.
-    #     θ_target = τ*θ_local + (1 - τ)*θ_target
-
-    #     Params
-    #     ======
-    #         local_model (PyTorch model): weights will be copied from
-    #         target_model (PyTorch model): weights will be copied to
-    #         tau (float): interpolation parameter 
-    #     """
-    #     for target_param, local_param in zip(target_model.parameters(), local_model.parameters()):
-    #         target_param.data.copy_(tau*local_param.data + (1.0-tau)*target_param.data)           
+        self.optimizer.step()                 
 
 
 class ReplayBuffer:
