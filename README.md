@@ -13,6 +13,9 @@ To solve this environment three value based methods were impleemnted:
 
 ## Environment
 
+![image](https://github.com/catarina-p/Navigation_RLND/assets/92151172/8d66bb1b-b6bc-49c0-b8ea-3f7ca7d70fd4)
+
+
 Collecting a yellow banana (resp. a blue banana) gives a reward of 1 (resp. -1). The state space is a continuous 37 dimensional space. The action space is discrete $\mathcal A =\{0,1,2,3\}$ with
 
 * 0 - move forward
