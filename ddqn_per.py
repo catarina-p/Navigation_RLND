@@ -12,17 +12,17 @@ import torch.optim as optim
 BUFFER_SIZE = 6400*2 #int(1e5)    # replay buffer size
 BATCH_SIZE = 64         # minibatch size
 GAMMA = 0.99            # discount factor
-LR = 20e-5              # learning rate 
+LR = 19e-5              # learning rate 
 PRIMARY_UPDATE = 4      # how often to update the network
 TARGET_UPDATE = 1000
 # TAU = 0.001 
-LR_DECAY = 0.001
+# LR_DECAY = 0.001
 
 # Prioritized Replay parameters
 # In the orignal paper, alpha~0.7 and beta_i~0.5
 SMALL = 0.0001  #P(i)~(|TD_error|+SMALL)^\alpha
-alpha = 0.8     #P(i)~(|TD_error|+SMALL)^\alpha
-beta_i = 0.7    #w_i =(1/(N*P(i)))^\beta
+alpha = 0.7 #0.8     #P(i)~(|TD_error|+SMALL)^\alpha
+beta_i = 0.5 #0.7    #w_i =(1/(N*P(i)))^\beta
 beta_f = 1.
 beta_update_steps = 1000
 
@@ -149,7 +149,7 @@ class Agent():
         # Minimize the loss
         self.optimizer.zero_grad()
         loss.backward()
-        self.optimizer.step()                 
+        self.optimizer.step()            
 
 
 class SumTree:
