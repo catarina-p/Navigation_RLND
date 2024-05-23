@@ -25,7 +25,7 @@ Collecting a yellow banana (resp. a blue banana) gives a reward of 1 (resp. -1).
   
 The task is episodic and the environment is considered solved when the agent get an average score of 13 over 100 consecutive episodes.
 
-## Installing the environment
+## Installing the environment and dependencies
 
 * Download the environment:
   * Linux: **[download](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)**
@@ -39,3 +39,5 @@ The task is episodic and the environment is considered solved when the agent get
 from unityagents import UnityEnvironment
 env = UnityEnvironment(file_name="Banana_Windows_x86_64\Banana.exe")
 ```
+
+* Python version used: python==3.6
