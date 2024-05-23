@@ -12,7 +12,7 @@ import torch.optim as optim
 BUFFER_SIZE = 6400*2 #int(1e5)    # replay buffer size
 BATCH_SIZE = 64         # minibatch size
 GAMMA = 0.99            # discount factor
-LR = 19e-5              # learning rate 
+LR = 19.4e-5              # learning rate 
 PRIMARY_UPDATE = 4      # how often to update the network
 TARGET_UPDATE = 1000
 # TAU = 0.001 
