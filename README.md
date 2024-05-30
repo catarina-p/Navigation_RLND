@@ -46,9 +46,9 @@ env = UnityEnvironment(file_name="Banana_Windows_x86_64\Banana.exe")
     pip install -r requirements.txt
     ```
   
-* Windows:
-  ```python
-  conda create --name drlnd python=3.6
-  conda activate drlnd
-  pip install -r requirements.txt
-  ```
+  * Windows:
+    ```python
+    conda create --name drlnd python=3.6
+    conda activate drlnd
+    pip install -r requirements.txt
+    ```
