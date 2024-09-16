@@ -52,3 +52,6 @@ env = UnityEnvironment(file_name="Banana_Windows_x86_64\Banana.exe")
     conda activate drlnd
     pip install -r requirements.txt
     ```
+
+## Getting started
+Please follow the BananasNavigation_project.ipynb notebook. here you can either train the model on your mahine, or load the pretrained weights for every case.
