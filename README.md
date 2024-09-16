@@ -54,4 +54,4 @@ env = UnityEnvironment(file_name="Banana_Windows_x86_64\Banana.exe")
     ```
 
 ## Getting started
-Please follow the BananasNavigation_project.ipynb notebook. here you can either train the model on your mahine, or load the pretrained weights for every case.
+Please follow the BananasNavigation_project.ipynb notebook. Here you can either train the model on your mahine, or load the pretrained weights for every case.
