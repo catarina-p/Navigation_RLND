@@ -151,7 +151,7 @@ class Agent():
         loss.backward()
         self.optimizer.step()            
 
-
+# Source: https://github.com/eyalbd2/Deep_RL_Course/blob/master/Acrobot/SumTree.py
 class SumTree:
     write = 0
 
